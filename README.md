@@ -1,5 +1,6 @@
 # 💫 About Me:
-Junior Node developer
+I am 15 years old and am studying cybersecurity.
+My educational path began with a "BAC PRO CIEL" program, followed by a "BTS CIEL" course, which I am currently still pursuing.
 
 
 ## 🌐 Socials:
